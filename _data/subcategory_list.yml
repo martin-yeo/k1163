@@ -2,17 +2,17 @@
 
 
 subcategory-one:
-  name: Subcategory One
+  name: 현대판타지
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
-  description: This is your first subcategory!
+  description: 현대판타지 장르를 가진 웹툰을 소개해드릴게요.
 subcategory-two:
-  name: Subcategory Two
+  name: 로맨스판타지
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
-  description: This is your second subcategory!
+  description: 로맨스판타지 장르를 가진 웹툰을 소개해드릴게요.
 subcategory-three:
-  name: Subcategory Three
+  name: 무협
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
-  description: This is your third subcategory!
+  description: 무협 장르를 가진 웹툰을 소개해드릴게요.

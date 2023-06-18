@@ -2,11 +2,11 @@
 
 
 using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
+  name: 카카오페이지
+  description: 카카오페이지의 웹툰을 소개해드릴게요.
 using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
+  name: 네이버 웹툰
+  description: 네이버의 웹툰을 소개해드릴게요.
 customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+  name: 네이버 시리즈
+  description: 네이버 시리즈의 웹툰을 소개해드릴게요.
