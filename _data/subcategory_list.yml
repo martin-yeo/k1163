@@ -2,17 +2,17 @@
 
 
 subcategory-one:
-  name: Subcategory One
+  name: 현대판타지
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your first subcategory!
 subcategory-two:
-  name: Subcategory Two
+  name: 로맨스판타지
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your second subcategory!
 subcategory-three:
-  name: Subcategory Three
+  name: 무협
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
