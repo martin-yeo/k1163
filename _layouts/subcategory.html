@@ -15,17 +15,17 @@ layout: default
       <div class="column col-12">
         <ul class="breadcrumb">
           <li class="breadcrumb-item">
-            <a href="https://{{ site.url }}{{ site.baseurl }}">Retrun to Home</a>
+            <a href="https://{{ site.url }}{{ site.baseurl }}">Help Center Home</a>
           </li>
           <li class="breadcrumb-item">
             <a href="https://{{ site.url }}{{ site.baseurl }}/{{ page_subcategory.parent-category | slugify }}">{{ page_subcategory.parent-category-name }}</a>
           </li>
           <li class="breadcrumb-item">
-            <a href="#">네이버 웹툰</a>
+            <a href="#">{{ page_subcategory.name }}</a>
           </li>
         </ul>
-        <h2 class="text-light text-bold">현대판타지</h2>
-        <p class="text-light mb-2">현대판타지 장르를 가진 웹툰을 소개해드릴게요.</p>
+        <h2 class="text-light text-bold">{{ page_subcategory.name }}</h2>
+        <p class="text-light mb-2">{{ page_subcategory.description }}</p>
       </div>
       {% for post in site.categories.[page.subcategory] %}
         {% include article-card.html %}
