@@ -30,7 +30,7 @@ use_authors: true #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: Odin
 header: 웹툰을 소개해드릴까요?
-subheader: 웹툰제목, 작가, 장르 등을 소개해드릴게요.
+subheader: 웹툰 제목, 작가, 장르 등을 소개해드릴게요.
 
 meta_image: odin-meta.png
 
